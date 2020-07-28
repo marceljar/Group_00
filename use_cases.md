@@ -1,4 +1,4 @@
-## Picking a Timeslot
+## Picking a Timeslot (done by Marcel)
 
 ### Actor (User)
 Student with a valid account in the system and an assigned CAPSTONE group.
@@ -27,7 +27,7 @@ After a student has succesfully picked a timeslot, the database gets updated wit
 
 ---
 
-## Sending Messages to Groups
+## Sending Messages to Groups (done by Marcel)
 
 ### Actor (User)
 Faculty with a valid account in the system.
