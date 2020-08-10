@@ -5,3 +5,7 @@ The website is served by an Apache 2.0 server, running on an Ubuntu 16.04 OS hos
 ## Front-End
 
 In its Front-End, the website uses Bootstrap 3.0 to create a responsive experience. Moreover, the JQuery library,  which is required by Bootstrap, is used to simplify the coding of number of AJAX calls. No other JavaScript libraries are used.
+
+## Developing Tools
+
+This website was developed using [Visual Studio Code](https://code.visualstudio.com/) with a Python and Remote-SSH extensions. [Postman](https://www.postman.com/) was used to test a number of HTTP requests in order to decouple back-end and front-end tasks.
