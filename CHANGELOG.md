@@ -2,4 +2,4 @@
 
 ### Added CHANGELOG.md file
 
-* Added a CHANGELOG.md file following the same structure as the one in the Facebook/React repository. (#3)
+* Added a CHANGELOG.md file following the same structure as the one in the Facebook/React repository. [#3]
