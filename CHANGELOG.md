@@ -1,4 +1,4 @@
-(august 25th, 2020)
+## (august 25th, 2020)
 
 ### Added CHANGELOG.md file
 
