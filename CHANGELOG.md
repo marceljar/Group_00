@@ -3,7 +3,7 @@
 ### Added a proper issue to be used as an example (author - Marcel Jar)
 * An example of a proper issue, with all required sections, was created in [#5](https://github.com/marceljar/Group_00/issues/5)
 
-## Added authors to CHANGELOG items (author - Marcel Jar)
+### Added authors to CHANGELOG items (author - Marcel Jar)
 * Each item in this changelog now presents an author.
 
 ## (October 1st, 2020)
