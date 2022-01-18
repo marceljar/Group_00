@@ -16,3 +16,5 @@ This tool will allow faculty members to create a number of timeslots available f
 This tool will allow the faculty to quickly visualize all groups and its members. Moreover, this toll should allow facutly to quickly craft an email message to specific groups.
 
 Note that both these tools require the website to have an authentication system in which users can take two different roles (faculty or student), each role with specific capabilities. Due to the fact that users are only allowed into the system as per faculty's invitation, no authentication APIs, such as [Facebook](https://developers.facebook.com/docs/facebook-login/), or [Google](https://developers.google.com/identity/sign-in/web/sign-in), are implemented.
+
+## Testing....
