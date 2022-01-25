@@ -2,3 +2,5 @@
 - Merged into the shared repository
 - Peer Reviewed
 - Tested on all intended platforms
+- Automated tests created
+- Required documentation was completed
