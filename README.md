@@ -1,10 +1,10 @@
 # Group_00
 
 ## Members
-| Name        | Github    | Email                       | Skype         |
-| ----------- | --------- | --------------------------- | ------------- |
-| Marcel Jar  | marceljar | marcel.jar@senecacollege.ca | marcel.seneca |
-| Tony Stark  | tonystark | tony.stark@senecacollege.ca | tony.seneca   |
+| Name        | Github    | Email                       |
+| ----------- | --------- | --------------------------- |
+| Marcel Jar  | marceljar | marcel.jar@senecacollege.ca |
+| Tony Stark  | tonystark | tony.stark@senecacollege.ca |
 
 ## Project Description
 In this project, a website tailored for faculty members teaching CAPSTONE project courses is developed. This website will feature a number of tools to aid faculty during the process of teaching these courses. The two most important tools are a timeslot picking tool, and a group messaging tool, which are discussed in what follows:
