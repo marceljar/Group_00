@@ -32,7 +32,14 @@ INSERT WBS AT THIS SPOT
 
 ### 3.2 Requirements Traceability Matrix
 
-INSERT RTM AT THIS SPOT
+RTM Example:
+
+| Req ID | Requirement | Del ID | Deliverable | Owner | Status |
+|----------|----------|----------|----------|----------|----------|
+| REQ01 | Hosting defined and set up | DEL01 | Website up and running from the server with no interactive tools | Faculty | done |
+| REQ02 | Server up and running | DEL01 | Website up and running from the server with no interactive tools | Faculty | testing |
+| REQ03 | Static pages routes set up | DEL01 | Website up and running from the server with no interactive tools | Faculty | pending |
+
 
 ## 4. Deliverables
 
