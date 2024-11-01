@@ -30,7 +30,7 @@ A website designed for a faculty delivering courses at College setting will be u
 
 INSERT WBS AT THIS SPOT
 
-![WBS](wbs1.jpg)
+![WBS](assets/wbs.png)
 
 ### 3.2 Requirements Traceability Matrix
 
